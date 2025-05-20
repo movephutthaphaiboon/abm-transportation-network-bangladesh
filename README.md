@@ -1,7 +1,5 @@
 # Data-driven simulation and analysis of transportation networks in Bangladesh
 
-# Workspace Summary
-
 This repository contains a series of assignments for data-driven simulation and analysis of transportation networks in Bangladesh from the course **EPA133A Advanced Simulation** at TU Delft. Each assignment is organized in its own directory with data, code, notebooks, and documentation.
 
 ## Structure
