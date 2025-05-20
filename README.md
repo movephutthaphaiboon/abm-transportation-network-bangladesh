@@ -27,7 +27,7 @@ This repository contains the work for a series of assignments focused on data-dr
   - Report and requirements.
 
 - **A4-Network Analysis/**
-  - Placeholder for further network analysis (contains data directory).
+  - Infrasturcture (bridges) vulnerability and criticality analysis.
 
 ## Key Features
 
